@@ -31,9 +31,11 @@ I used:
 
 ### Screenshot
 
-![Desktop Screen](design/screenshotDesktop.PNG)
+<img src="./design/screenshotDesktop.jpg">
 
-![Mobile Screen](design/screenshotMobile.PNG)
+![Desktop Screen](./design/screenshotDesktop.jpg)
+
+![Mobile Screen](./design/screenshotMobile.jpg)
 
 
 
