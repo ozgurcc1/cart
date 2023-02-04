@@ -35,7 +35,7 @@ I used:
 
 
 
-![Mobile Screen](./design/screenshotMobile.jpg)
+![Mobile Screen](https://github.com/ozgurcc1/cart/blob/master/design/mobile-design.jpg?raw=true)
 
 
 
