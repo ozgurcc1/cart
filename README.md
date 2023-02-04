@@ -31,7 +31,7 @@ I used:
 
 ### Screenshot
 
-<img src="./design/screenshotDesktop.jpg">
+<img src="./screenshotDesktop.jpg">
 
 ![Desktop Screen](./design/screenshotDesktop.jpg)
 
