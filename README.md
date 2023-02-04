@@ -31,9 +31,9 @@ I used:
 
 ### Screenshot
 
-<img src="./screenshotDesktop.jpg">
+<img src="screenshotDesktop.jpg">
 
-![Desktop Screen](./design/screenshotDesktop.jpg)
+
 
 ![Mobile Screen](./design/screenshotMobile.jpg)
 
